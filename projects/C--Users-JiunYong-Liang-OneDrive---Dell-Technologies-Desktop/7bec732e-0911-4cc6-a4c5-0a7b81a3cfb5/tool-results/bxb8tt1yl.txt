@@ -1,0 +1,852 @@
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plans/before-we-proceed-may-tidy-peacock.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plans/let-actualcost-raw-epprice-dapper-eagle.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plans/p-class-dds-price-tc-model-price-jazzy-reddy.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/known_marketplaces.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/.claude-plugin/marketplace.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/asana/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/asana/.mcp.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/context7/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/context7/.mcp.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/discord/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/discord/.mcp.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/discord/.npmrc', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/discord/ACCESS.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/discord/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/discord/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/discord/bun.lock', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/discord/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/discord/server.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/discord/skills/access/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/discord/skills/configure/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/fakechat/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/fakechat/.mcp.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/fakechat/.npmrc', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/fakechat/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/fakechat/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/fakechat/bun.lock', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/fakechat/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/fakechat/server.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/firebase/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/firebase/.mcp.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/github/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/github/.mcp.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/gitlab/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/gitlab/.mcp.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/greptile/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/greptile/.mcp.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/greptile/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/imessage/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/imessage/.mcp.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/imessage/.npmrc', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/imessage/ACCESS.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/imessage/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/imessage/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/imessage/bun.lock', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/imessage/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/imessage/server.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/imessage/skills/access/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/imessage/skills/configure/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/laravel-boost/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/laravel-boost/.mcp.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/linear/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/linear/.mcp.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/playwright/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/playwright/.mcp.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/serena/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/serena/.mcp.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/telegram/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/telegram/.mcp.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/telegram/.npmrc', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/telegram/ACCESS.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/telegram/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/telegram/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/telegram/bun.lock', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/telegram/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/telegram/server.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/telegram/skills/access/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/telegram/skills/configure/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/terraform/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/external_plugins/terraform/.mcp.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/agent-sdk-dev/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/agent-sdk-dev/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/agent-sdk-dev/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/agent-sdk-dev/agents/agent-sdk-verifier-py.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/agent-sdk-dev/agents/agent-sdk-verifier-ts.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/agent-sdk-dev/commands/new-sdk-app.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/clangd-lsp/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/clangd-lsp/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/skills/claude-automation-recommender/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/skills/claude-automation-recommender/references/hooks-patterns.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/skills/claude-automation-recommender/references/mcp-servers.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/skills/claude-automation-recommender/references/plugins-reference.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/skills/claude-automation-recommender/references/skills-reference.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/skills/claude-automation-recommender/references/subagent-templates.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/commands/revise-claude-md.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/skills/claude-md-improver/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/skills/claude-md-improver/references/quality-criteria.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/skills/claude-md-improver/references/templates.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/skills/claude-md-improver/references/update-guidelines.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-modernization/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-modernization/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-modernization/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-modernization/agents/architecture-critic.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-modernization/agents/business-rules-extractor.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-modernization/agents/legacy-analyst.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-modernization/agents/security-auditor.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-modernization/agents/test-engineer.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-modernization/commands/modernize-assess.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-modernization/commands/modernize-brief.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-modernization/commands/modernize-extract-rules.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-modernization/commands/modernize-harden.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-modernization/commands/modernize-map.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-modernization/commands/modernize-reimagine.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-modernization/commands/modernize-transform.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-review/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-review/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-review/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-review/commands/code-review.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-simplifier/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-simplifier/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/code-simplifier/agents/code-simplifier.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/commit-commands/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/commit-commands/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/commit-commands/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/commit-commands/commands/clean_gone.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/commit-commands/commands/commit-push-pr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/commit-commands/commands/commit.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/csharp-lsp/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/csharp-lsp/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/cwc-makers/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/cwc-makers/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/cwc-makers/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/cwc-makers/commands/maker-setup.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/cwc-makers/skills/cardputer-buddy/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/cwc-makers/skills/m5-onboard/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/example-plugin/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/example-plugin/.mcp.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/example-plugin/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/example-plugin/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/example-plugin/commands/example-command.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/example-plugin/skills/example-command/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/example-plugin/skills/example-skill/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/explanatory-output-style/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/explanatory-output-style/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/explanatory-output-style/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/explanatory-output-style/hooks-handlers/session-start.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/explanatory-output-style/hooks/hooks.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/feature-dev/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/feature-dev/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/feature-dev/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/feature-dev/agents/code-architect.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/feature-dev/agents/code-explorer.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/feature-dev/agents/code-reviewer.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/feature-dev/commands/feature-dev.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/frontend-design/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/frontend-design/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/frontend-design/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/frontend-design/skills/frontend-design/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/gopls-lsp/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/gopls-lsp/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/agents/conversation-analyzer.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/commands/configure.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/commands/help.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/commands/hookify.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/commands/list.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/core/config_loader.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/core/rule_engine.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/examples/console-log-warning.local.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/examples/dangerous-rm.local.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/examples/require-tests-stop.local.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/examples/sensitive-files-warning.local.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/hooks/hooks.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/hooks/posttooluse.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/hooks/pretooluse.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/hooks/stop.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/hooks/userpromptsubmit.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/hookify/skills/writing-rules/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/jdtls-lsp/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/jdtls-lsp/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/kotlin-lsp/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/kotlin-lsp/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/learning-output-style/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/learning-output-style/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/learning-output-style/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/learning-output-style/hooks-handlers/session-start.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/learning-output-style/hooks/hooks.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/lua-lsp/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/lua-lsp/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/evals/trigger_eval.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/references/adversarial_prompts.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/references/attempt_agent.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/references/known_constructions.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/references/model_tier_defaults.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/references/presentation_prompts.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/references/solver_heuristics.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/references/verifier_patterns.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/scripts/check_latex.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/scripts/compile_pdf.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-app/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-app/references/abuse-protection.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-app/references/apps-sdk-messages.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-app/references/directory-checklist.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-app/references/iframe-sandbox.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-app/references/payload-budgeting.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-app/references/widget-templates.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/references/auth.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/references/deploy-cloudflare-workers.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/references/elicitation.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/references/remote-http-scaffold.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/references/resources-and-prompts.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/references/server-capabilities.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/references/tool-design.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/references/versions.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcpb/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcpb/references/local-security.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcpb/references/manifest-schema.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/php-lsp/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/php-lsp/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/playground/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/playground/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/playground/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/playground/skills/playground/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/playground/skills/playground/templates/code-map.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/playground/skills/playground/templates/concept-map.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/playground/skills/playground/templates/data-explorer.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/playground/skills/playground/templates/design-playground.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/playground/skills/playground/templates/diff-review.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/playground/skills/playground/templates/document-critique.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/agents/agent-creator.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/agents/plugin-validator.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/agents/skill-reviewer.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/commands/create-plugin.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/agent-development/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/agent-development/examples/agent-creation-prompt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/agent-development/examples/complete-agent-examples.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/agent-development/references/agent-creation-system-prompt.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/agent-development/references/system-prompt-design.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/agent-development/references/triggering-examples.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/agent-development/scripts/validate-agent.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/examples/plugin-commands.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/examples/simple-commands.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/references/advanced-workflows.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/references/documentation-patterns.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/references/frontmatter-reference.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/references/interactive-commands.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/references/marketplace-considerations.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/references/plugin-features-reference.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/references/testing-strategies.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/examples/load-context.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/examples/validate-bash.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/examples/validate-write.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/references/advanced.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/references/migration.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/references/patterns.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/scripts/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/scripts/hook-linter.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/scripts/test-hook.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/scripts/validate-hook-schema.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/mcp-integration/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/mcp-integration/examples/http-server.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/mcp-integration/examples/sse-server.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/mcp-integration/examples/stdio-server.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/mcp-integration/references/authentication.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/mcp-integration/references/server-types.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/mcp-integration/references/tool-usage.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-settings/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-settings/examples/create-settings-command.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-settings/examples/example-settings.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-settings/examples/read-settings-hook.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-settings/references/parsing-techniques.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-settings/references/real-world-examples.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-settings/scripts/parse-frontmatter.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-settings/scripts/validate-settings.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-structure/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-structure/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-structure/examples/advanced-plugin.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-structure/examples/minimal-plugin.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-structure/examples/standard-plugin.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-structure/references/component-patterns.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-structure/references/manifest-reference.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/skill-development/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/skill-development/references/skill-creator-original.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/agents/code-reviewer.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/agents/code-simplifier.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/agents/comment-analyzer.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/agents/pr-test-analyzer.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/agents/silent-failure-hunter.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/agents/type-design-analyzer.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/commands/review-pr.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/pyright-lsp/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/pyright-lsp/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/ralph-loop/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/ralph-loop/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/ralph-loop/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/ralph-loop/commands/cancel-ralph.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/ralph-loop/commands/help.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/ralph-loop/commands/ralph-loop.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/ralph-loop/hooks/hooks.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/ralph-loop/hooks/stop-hook.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/ralph-loop/scripts/setup-ralph-loop.sh', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/ruby-lsp/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/ruby-lsp/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/rust-analyzer-lsp/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/rust-analyzer-lsp/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/security-guidance/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/security-guidance/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/security-guidance/hooks/hooks.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/security-guidance/hooks/security_reminder_hook.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/session-report/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/session-report/skills/session-report/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/session-report/skills/session-report/analyze-sessions.mjs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/session-report/skills/session-report/template.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/.claude-plugin/plugin.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/LICENSE.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/SKILL.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/agents/analyzer.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/agents/comparator.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/agents/grader.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/assets/eval_review.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/eval-viewer/generate_review.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/eval-viewer/viewer.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/references/schemas.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/scripts/aggregate_benchmark.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/scripts/generate_report.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/scripts/improve_description.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/scripts/package_skill.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/scripts/quick_validate.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/scripts/run_eval.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/scripts/run_loop.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/scripts/utils.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/swift-lsp/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/swift-lsp/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/typescript-lsp/LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'plugins/marketplaces/claude-plugins-official/plugins/typescript-lsp/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/004d2508-6aef-41d5-9748-6c1b91cca096.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/238bc3e4-6693-4e31-9ab0-45c782f41507.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/23e53af6-c63f-4260-af1b-04dd1407f901.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/23e53af6-c63f-4260-af1b-04dd1407f901/subagents/agent-a6fe822521134424c.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/253d209a-3bdf-439c-b91a-f22c4282e76c.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/253d209a-3bdf-439c-b91a-f22c4282e76c/subagents/agent-a1c053d6d1c130b2b.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/253d209a-3bdf-439c-b91a-f22c4282e76c/tool-results/b5t0wjuzo.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/3cfdd847-9ded-4121-a0e9-497896ca7b61.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/439cc57b-b757-4f44-b4c7-2008e5c56a26.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/443fa396-d4b5-4f63-aa30-43db338b262f.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/498a6306-0f47-4d3a-911f-6ddf6a04e060.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/498a6306-0f47-4d3a-911f-6ddf6a04e060/subagents/agent-a11f4e2b560365992.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/498a6306-0f47-4d3a-911f-6ddf6a04e060/subagents/agent-ac64e65d77f943fc1.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/498a6306-0f47-4d3a-911f-6ddf6a04e060/tool-results/toolu_01MaZrcwNVguRjsSQJwqMgTw.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/5876a0d8-5d7a-4bce-ab5a-a95476b72ffc.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/62767ced-1e42-4928-a161-34e6b010f8e3.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/62767ced-1e42-4928-a161-34e6b010f8e3/subagents/agent-a24621d430db99ca8.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/71e3e94a-a21c-4d7d-914e-d3437fe9b96a.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/75696e0e-6f58-41c5-84f4-041f9899e407.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/783bf25a-7c08-43a1-86fd-68aa0d94e26e.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/7b3f4500-d409-408e-883b-a9b257a69caf.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/816d9633-6834-4154-84fe-557f35a8a980.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/816d9633-6834-4154-84fe-557f35a8a980/tool-results/toolu_01H3fFhp67UDAVugWxDhupFP.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/81822a97-5e33-4c39-866d-b7b5305ea51d.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/81b13225-c564-4ca2-ace5-88918b39963c.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/8babd517-c4f5-4a12-b8b0-487711779c87.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/8f06e209-ab8d-42f4-a44f-c1571bd1763e.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/8f06e209-ab8d-42f4-a44f-c1571bd1763e/subagents/agent-ac77e9a108f08ba6b.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/90e7a906-fbbe-4a0d-a4e2-006871482abf.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/a39ab14f-7250-4aa2-a441-9891b1999de0.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/a7bcf5c8-0e29-49a9-96bd-bde848a36572.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/b87e96d9-42a7-4644-abb2-011eaa54d4de.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/bfdde3d9-0feb-4e65-ac15-90dc9b1bc3b1.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/caacdf17-7629-43c2-a109-ba1ecbdafab7.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/d8963446-6ff0-430b-aa8e-4e271231aec9.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/d8963446-6ff0-430b-aa8e-4e271231aec9/subagents/agent-a71d926a2ef52b89f.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/dd0b59a3-4563-4691-ab82-d2b2a3172db7.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/fbcfb014-491e-453d-b4c9-84555bd5a826.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/fe63342d-5504-432d-86d5-f0a5eb00c8ef.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/memory/MEMORY.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/memory/project_components.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/memory/project_overview.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/memory/user_profile.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-Java-Exercise/c00c704a-31ad-4544-8fe4-fa4778b0d58c.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-OneDrive---Dell-Technologies-Desktop/7bec732e-0911-4cc6-a4c5-0a7b81a3cfb5.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-OneDrive---Dell-Technologies-Desktop/7bec732e-0911-4cc6-a4c5-0a7b81a3cfb5/subagents/agent-a70c430616f392b29.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-OneDrive---Dell-Technologies-Desktop/7bec732e-0911-4cc6-a4c5-0a7b81a3cfb5/tool-results/toolu_01KKnoM87p6gpCMAPJ4WoD9p.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-OneDrive---Dell-Technologies-Desktop/8a6de4f2-9391-4bc1-a5f0-a5d78f5bb552.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-OneDrive---Dell-Technologies-Desktop/92f05630-d117-4053-aafd-16dcdc7adf33.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-OneDrive---Dell-Technologies-Desktop/c819bde6-980c-4040-9bc1-9c91bff11f77.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-OneDrive---Dell-Technologies-Desktop/da71aa63-f28c-4f6e-ae2b-1afc145acf25.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-source-repos-Push/1eaa966f-aeac-4249-93f2-8323eee1f696.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-source-repos-Push/5c12e052-9edf-48a8-b5dc-81bc1f4d2e9d.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang-source-repos-Push/f71ff735-565c-4f4d-868d-1159972cba66.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang/c84b6413-9d2d-445f-9362-67eca4248cb9.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang/e832e519-a6f0-4661-80f1-4e055c54b031.jsonl', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang/e832e519-a6f0-4661-80f1-4e055c54b031/tool-results/toolu_01BbQzmQhJowgJ7cpQiwMddb.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'projects/C--Users-JiunYong-Liang/e832e519-a6f0-4661-80f1-4e055c54b031/tool-results/toolu_01RwgKK5HuV7vGkRUDhK9FbS.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'settings.json', LF will be replaced by CRLF the next time Git touches it
+[master (root-commit) d747f98] Initial Claude Code config sync
+ 433 files changed, 70985 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 ide/65487.lock
+ create mode 100644 plans/before-we-proceed-may-tidy-peacock.md
+ create mode 100644 plans/let-actualcost-raw-epprice-dapper-eagle.md
+ create mode 100644 plans/p-class-dds-price-tc-model-price-jazzy-reddy.md
+ create mode 100644 plugins/known_marketplaces.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/.claude-plugin/marketplace.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/.gcs-sha
+ create mode 100644 plugins/marketplaces/claude-plugins-official/.gitignore
+ create mode 100644 plugins/marketplaces/claude-plugins-official/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/asana/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/asana/.mcp.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/context7/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/context7/.mcp.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/discord/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/discord/.mcp.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/discord/.npmrc
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/discord/ACCESS.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/discord/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/discord/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/discord/bun.lock
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/discord/package.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/discord/server.ts
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/discord/skills/access/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/discord/skills/configure/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/fakechat/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/fakechat/.mcp.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/fakechat/.npmrc
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/fakechat/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/fakechat/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/fakechat/bun.lock
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/fakechat/package.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/fakechat/server.ts
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/firebase/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/firebase/.mcp.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/github/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/github/.mcp.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/gitlab/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/gitlab/.mcp.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/greptile/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/greptile/.mcp.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/greptile/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/imessage/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/imessage/.mcp.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/imessage/.npmrc
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/imessage/ACCESS.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/imessage/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/imessage/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/imessage/bun.lock
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/imessage/package.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/imessage/server.ts
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/imessage/skills/access/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/imessage/skills/configure/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/laravel-boost/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/laravel-boost/.mcp.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/linear/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/linear/.mcp.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/playwright/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/playwright/.mcp.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/serena/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/serena/.mcp.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/telegram/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/telegram/.mcp.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/telegram/.npmrc
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/telegram/ACCESS.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/telegram/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/telegram/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/telegram/bun.lock
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/telegram/package.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/telegram/server.ts
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/telegram/skills/access/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/telegram/skills/configure/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/terraform/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/external_plugins/terraform/.mcp.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/agent-sdk-dev/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/agent-sdk-dev/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/agent-sdk-dev/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/agent-sdk-dev/agents/agent-sdk-verifier-py.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/agent-sdk-dev/agents/agent-sdk-verifier-ts.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/agent-sdk-dev/commands/new-sdk-app.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/clangd-lsp/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/clangd-lsp/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/automation-recommender-example.png
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/skills/claude-automation-recommender/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/skills/claude-automation-recommender/references/hooks-patterns.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/skills/claude-automation-recommender/references/mcp-servers.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/skills/claude-automation-recommender/references/plugins-reference.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/skills/claude-automation-recommender/references/skills-reference.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/skills/claude-automation-recommender/references/subagent-templates.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/claude-md-improver-example.png
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/commands/revise-claude-md.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/revise-claude-md-example.png
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/skills/claude-md-improver/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/skills/claude-md-improver/references/quality-criteria.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/skills/claude-md-improver/references/templates.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/skills/claude-md-improver/references/update-guidelines.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-modernization/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-modernization/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-modernization/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-modernization/agents/architecture-critic.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-modernization/agents/business-rules-extractor.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-modernization/agents/legacy-analyst.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-modernization/agents/security-auditor.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-modernization/agents/test-engineer.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-modernization/commands/modernize-assess.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-modernization/commands/modernize-brief.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-modernization/commands/modernize-extract-rules.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-modernization/commands/modernize-harden.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-modernization/commands/modernize-map.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-modernization/commands/modernize-reimagine.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-modernization/commands/modernize-transform.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-review/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-review/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-review/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-review/commands/code-review.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-simplifier/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-simplifier/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/code-simplifier/agents/code-simplifier.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/commit-commands/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/commit-commands/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/commit-commands/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/commit-commands/commands/clean_gone.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/commit-commands/commands/commit-push-pr.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/commit-commands/commands/commit.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/csharp-lsp/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/csharp-lsp/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/cwc-makers/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/cwc-makers/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/cwc-makers/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/cwc-makers/commands/maker-setup.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/cwc-makers/skills/cardputer-buddy/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/cwc-makers/skills/m5-onboard/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/example-plugin/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/example-plugin/.mcp.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/example-plugin/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/example-plugin/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/example-plugin/commands/example-command.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/example-plugin/skills/example-command/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/example-plugin/skills/example-skill/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/explanatory-output-style/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/explanatory-output-style/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/explanatory-output-style/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/explanatory-output-style/hooks-handlers/session-start.sh
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/explanatory-output-style/hooks/hooks.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/feature-dev/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/feature-dev/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/feature-dev/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/feature-dev/agents/code-architect.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/feature-dev/agents/code-explorer.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/feature-dev/agents/code-reviewer.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/feature-dev/commands/feature-dev.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/frontend-design/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/frontend-design/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/frontend-design/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/frontend-design/skills/frontend-design/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/gopls-lsp/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/gopls-lsp/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/.gitignore
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/agents/conversation-analyzer.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/commands/configure.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/commands/help.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/commands/hookify.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/commands/list.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/core/__init__.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/core/config_loader.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/core/rule_engine.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/examples/console-log-warning.local.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/examples/dangerous-rm.local.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/examples/require-tests-stop.local.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/examples/sensitive-files-warning.local.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/hooks/__init__.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/hooks/hooks.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/hooks/posttooluse.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/hooks/pretooluse.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/hooks/stop.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/hooks/userpromptsubmit.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/matchers/__init__.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/skills/writing-rules/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/hookify/utils/__init__.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/jdtls-lsp/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/jdtls-lsp/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/kotlin-lsp/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/kotlin-lsp/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/learning-output-style/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/learning-output-style/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/learning-output-style/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/learning-output-style/hooks-handlers/session-start.sh
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/learning-output-style/hooks/hooks.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/lua-lsp/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/lua-lsp/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/evals/trigger_eval.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/references/adversarial_prompts.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/references/attempt_agent.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/references/known_constructions.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/references/model_tier_defaults.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/references/presentation_prompts.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/references/solver_heuristics.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/references/verifier_patterns.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/scripts/check_latex.sh
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/math-olympiad/skills/math-olympiad/scripts/compile_pdf.sh
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-app/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-app/references/abuse-protection.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-app/references/apps-sdk-messages.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-app/references/directory-checklist.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-app/references/iframe-sandbox.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-app/references/payload-budgeting.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-app/references/widget-templates.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/references/auth.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/references/deploy-cloudflare-workers.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/references/elicitation.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/references/remote-http-scaffold.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/references/resources-and-prompts.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/references/server-capabilities.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/references/tool-design.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcp-server/references/versions.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcpb/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcpb/references/local-security.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/mcp-server-dev/skills/build-mcpb/references/manifest-schema.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/php-lsp/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/php-lsp/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/playground/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/playground/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/playground/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/playground/skills/playground/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/playground/skills/playground/templates/code-map.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/playground/skills/playground/templates/concept-map.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/playground/skills/playground/templates/data-explorer.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/playground/skills/playground/templates/design-playground.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/playground/skills/playground/templates/diff-review.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/playground/skills/playground/templates/document-critique.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/agents/agent-creator.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/agents/plugin-validator.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/agents/skill-reviewer.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/commands/create-plugin.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/agent-development/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/agent-development/examples/agent-creation-prompt.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/agent-development/examples/complete-agent-examples.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/agent-development/references/agent-creation-system-prompt.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/agent-development/references/system-prompt-design.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/agent-development/references/triggering-examples.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/agent-development/scripts/validate-agent.sh
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/examples/plugin-commands.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/examples/simple-commands.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/references/advanced-workflows.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/references/documentation-patterns.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/references/frontmatter-reference.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/references/interactive-commands.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/references/marketplace-considerations.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/references/plugin-features-reference.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/command-development/references/testing-strategies.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/examples/load-context.sh
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/examples/validate-bash.sh
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/examples/validate-write.sh
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/references/advanced.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/references/migration.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/references/patterns.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/scripts/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/scripts/hook-linter.sh
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/scripts/test-hook.sh
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/hook-development/scripts/validate-hook-schema.sh
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/mcp-integration/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/mcp-integration/examples/http-server.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/mcp-integration/examples/sse-server.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/mcp-integration/examples/stdio-server.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/mcp-integration/references/authentication.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/mcp-integration/references/server-types.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/mcp-integration/references/tool-usage.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-settings/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-settings/examples/create-settings-command.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-settings/examples/example-settings.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-settings/examples/read-settings-hook.sh
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-settings/references/parsing-techniques.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-settings/references/real-world-examples.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-settings/scripts/parse-frontmatter.sh
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-settings/scripts/validate-settings.sh
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-structure/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-structure/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-structure/examples/advanced-plugin.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-structure/examples/minimal-plugin.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-structure/examples/standard-plugin.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-structure/references/component-patterns.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/plugin-structure/references/manifest-reference.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/skill-development/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/plugin-dev/skills/skill-development/references/skill-creator-original.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/agents/code-reviewer.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/agents/code-simplifier.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/agents/comment-analyzer.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/agents/pr-test-analyzer.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/agents/silent-failure-hunter.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/agents/type-design-analyzer.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/pr-review-toolkit/commands/review-pr.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/pyright-lsp/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/pyright-lsp/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/ralph-loop/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/ralph-loop/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/ralph-loop/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/ralph-loop/commands/cancel-ralph.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/ralph-loop/commands/help.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/ralph-loop/commands/ralph-loop.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/ralph-loop/hooks/hooks.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/ralph-loop/hooks/stop-hook.sh
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/ralph-loop/scripts/setup-ralph-loop.sh
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/ruby-lsp/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/ruby-lsp/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/rust-analyzer-lsp/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/rust-analyzer-lsp/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/security-guidance/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/security-guidance/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/security-guidance/hooks/hooks.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/security-guidance/hooks/security_reminder_hook.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/session-report/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/session-report/skills/session-report/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/session-report/skills/session-report/analyze-sessions.mjs
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/session-report/skills/session-report/template.html
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/.claude-plugin/plugin.json
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/LICENSE.txt
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/SKILL.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/agents/analyzer.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/agents/comparator.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/agents/grader.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/assets/eval_review.html
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/eval-viewer/generate_review.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/eval-viewer/viewer.html
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/references/schemas.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/scripts/__init__.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/scripts/aggregate_benchmark.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/scripts/generate_report.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/scripts/improve_description.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/scripts/package_skill.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/scripts/quick_validate.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/scripts/run_eval.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/scripts/run_loop.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/skill-creator/skills/skill-creator/scripts/utils.py
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/swift-lsp/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/swift-lsp/README.md
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/typescript-lsp/LICENSE
+ create mode 100644 plugins/marketplaces/claude-plugins-official/plugins/typescript-lsp/README.md
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/004d2508-6aef-41d5-9748-6c1b91cca096.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/238bc3e4-6693-4e31-9ab0-45c782f41507.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/23e53af6-c63f-4260-af1b-04dd1407f901.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/23e53af6-c63f-4260-af1b-04dd1407f901/subagents/agent-a6fe822521134424c.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/23e53af6-c63f-4260-af1b-04dd1407f901/subagents/agent-a6fe822521134424c.meta.json
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/253d209a-3bdf-439c-b91a-f22c4282e76c.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/253d209a-3bdf-439c-b91a-f22c4282e76c/subagents/agent-a1c053d6d1c130b2b.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/253d209a-3bdf-439c-b91a-f22c4282e76c/subagents/agent-a1c053d6d1c130b2b.meta.json
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/253d209a-3bdf-439c-b91a-f22c4282e76c/tool-results/b5t0wjuzo.txt
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/3cfdd847-9ded-4121-a0e9-497896ca7b61.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/439cc57b-b757-4f44-b4c7-2008e5c56a26.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/443fa396-d4b5-4f63-aa30-43db338b262f.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/498a6306-0f47-4d3a-911f-6ddf6a04e060.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/498a6306-0f47-4d3a-911f-6ddf6a04e060/subagents/agent-a11f4e2b560365992.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/498a6306-0f47-4d3a-911f-6ddf6a04e060/subagents/agent-a11f4e2b560365992.meta.json
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/498a6306-0f47-4d3a-911f-6ddf6a04e060/subagents/agent-ac64e65d77f943fc1.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/498a6306-0f47-4d3a-911f-6ddf6a04e060/subagents/agent-ac64e65d77f943fc1.meta.json
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/498a6306-0f47-4d3a-911f-6ddf6a04e060/tool-results/toolu_01MaZrcwNVguRjsSQJwqMgTw.txt
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/5876a0d8-5d7a-4bce-ab5a-a95476b72ffc.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/62767ced-1e42-4928-a161-34e6b010f8e3.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/62767ced-1e42-4928-a161-34e6b010f8e3/subagents/agent-a24621d430db99ca8.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/62767ced-1e42-4928-a161-34e6b010f8e3/subagents/agent-a24621d430db99ca8.meta.json
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/71e3e94a-a21c-4d7d-914e-d3437fe9b96a.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/75696e0e-6f58-41c5-84f4-041f9899e407.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/783bf25a-7c08-43a1-86fd-68aa0d94e26e.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/7b3f4500-d409-408e-883b-a9b257a69caf.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/816d9633-6834-4154-84fe-557f35a8a980.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/816d9633-6834-4154-84fe-557f35a8a980/tool-results/toolu_01H3fFhp67UDAVugWxDhupFP.txt
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/81822a97-5e33-4c39-866d-b7b5305ea51d.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/81b13225-c564-4ca2-ace5-88918b39963c.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/8babd517-c4f5-4a12-b8b0-487711779c87.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/8f06e209-ab8d-42f4-a44f-c1571bd1763e.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/8f06e209-ab8d-42f4-a44f-c1571bd1763e/subagents/agent-ac77e9a108f08ba6b.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/8f06e209-ab8d-42f4-a44f-c1571bd1763e/subagents/agent-ac77e9a108f08ba6b.meta.json
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/90e7a906-fbbe-4a0d-a4e2-006871482abf.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/a39ab14f-7250-4aa2-a441-9891b1999de0.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/a7bcf5c8-0e29-49a9-96bd-bde848a36572.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/b87e96d9-42a7-4644-abb2-011eaa54d4de.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/bfdde3d9-0feb-4e65-ac15-90dc9b1bc3b1.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/caacdf17-7629-43c2-a109-ba1ecbdafab7.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/d8963446-6ff0-430b-aa8e-4e271231aec9.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/d8963446-6ff0-430b-aa8e-4e271231aec9/subagents/agent-a71d926a2ef52b89f.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/d8963446-6ff0-430b-aa8e-4e271231aec9/subagents/agent-a71d926a2ef52b89f.meta.json
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/dd0b59a3-4563-4691-ab82-d2b2a3172db7.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/fbcfb014-491e-453d-b4c9-84555bd5a826.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/fe63342d-5504-432d-86d5-f0a5eb00c8ef.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/memory/MEMORY.md
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/memory/project_components.md
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/memory/project_overview.md
+ create mode 100644 projects/C--Users-JiunYong-Liang-AEM-Backend-AEM-Project/memory/user_profile.md
+ create mode 100644 projects/C--Users-JiunYong-Liang-Java-Exercise/c00c704a-31ad-4544-8fe4-fa4778b0d58c.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-OneDrive---Dell-Technologies-Desktop/7bec732e-0911-4cc6-a4c5-0a7b81a3cfb5.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-OneDrive---Dell-Technologies-Desktop/7bec732e-0911-4cc6-a4c5-0a7b81a3cfb5/subagents/agent-a70c430616f392b29.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-OneDrive---Dell-Technologies-Desktop/7bec732e-0911-4cc6-a4c5-0a7b81a3cfb5/subagents/agent-a70c430616f392b29.meta.json
+ create mode 100644 projects/C--Users-JiunYong-Liang-OneDrive---Dell-Technologies-Desktop/7bec732e-0911-4cc6-a4c5-0a7b81a3cfb5/tool-results/toolu_01KKnoM87p6gpCMAPJ4WoD9p.txt
+ create mode 100644 projects/C--Users-JiunYong-Liang-OneDrive---Dell-Technologies-Desktop/8a6de4f2-9391-4bc1-a5f0-a5d78f5bb552.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-OneDrive---Dell-Technologies-Desktop/92f05630-d117-4053-aafd-16dcdc7adf33.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-OneDrive---Dell-Technologies-Desktop/c819bde6-980c-4040-9bc1-9c91bff11f77.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-OneDrive---Dell-Technologies-Desktop/da71aa63-f28c-4f6e-ae2b-1afc145acf25.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-source-repos-Push/1eaa966f-aeac-4249-93f2-8323eee1f696.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-source-repos-Push/5c12e052-9edf-48a8-b5dc-81bc1f4d2e9d.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang-source-repos-Push/5c12e052-9edf-48a8-b5dc-81bc1f4d2e9d/tool-results/b39s0ogjs.txt
+ create mode 100644 projects/C--Users-JiunYong-Liang-source-repos-Push/f71ff735-565c-4f4d-868d-1159972cba66.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang/c84b6413-9d2d-445f-9362-67eca4248cb9.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang/e832e519-a6f0-4661-80f1-4e055c54b031.jsonl
+ create mode 100644 projects/C--Users-JiunYong-Liang/e832e519-a6f0-4661-80f1-4e055c54b031/tool-results/toolu_01BbQzmQhJowgJ7cpQiwMddb.txt
+ create mode 100644 projects/C--Users-JiunYong-Liang/e832e519-a6f0-4661-80f1-4e055c54b031/tool-results/toolu_01RwgKK5HuV7vGkRUDhK9FbS.txt
+ create mode 100644 settings.json
+branch 'main' set up to track 'origin/main'.
+To https://github.com/ahpou9512/claude-conversations.git
+ * [new branch]      main -> main
