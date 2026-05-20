@@ -1,0 +1,252 @@
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-134-                    .append("</div>");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-135-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-136-            EdSvcUserInfo userInfo = request.adaptTo(EdSvcUserInfo.class);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:137:            String audType = userInfo != null ? StringUtils.defaultString(userInfo.getAudienceType()) : "";
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:138:            String audienceType = Objects.equals(audType, "Guest") ? "Customer" : audType;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-139-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-140-            String loc = userInfo != null ? StringUtils.defaultString(userInfo.getLocation()) : getCookieValue(request,"location","United States");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-141-            String location = StringUtils.isBlank(loc) ? getCookieValue(request,"location","United States") : loc;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-142-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-143-            JSONArray packageArr = examJson.optJSONArray("Packages");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-144-            if (packageArr != null && packageArr.length() > 0) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:145:                // Filter Course_x0020_Number where Courses[i].Audience matches audienceType
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-146-                Set<String> epcodes = new LinkedHashSet<>();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-147-                for (int i = 0; i < packageArr.length(); i++) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-148-                    JSONObject c = packageArr.optJSONObject(i);
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-152-                    String code = c.optString("Package_x0020_Number");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-153-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-154-                    if (StringUtils.isBlank(code)) continue;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:155:                    if (StringUtils.isBlank(audienceType)) continue;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-156-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:157:                    if (StringUtils.equalsIgnoreCase(aud, audienceType)) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-158-                        epcodes.add(code.trim());
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-159-                    }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-160-                }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-161-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:162:                if (!epcodes.isEmpty() && StringUtils.isNotBlank(audienceType) && StringUtils.isNotBlank(location)) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:163:                    recommendedCoursesHtml = fetchAndBuildRecommendedPackages(epcodes, audienceType, location);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-164-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-165-                    if (StringUtils.isNotBlank(recommendedCoursesHtml)) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-166-                        tab0.append("<div>")
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-175-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-176-            JSONArray coursesArr = examJson.optJSONArray("Courses");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-177-            if (coursesArr != null && coursesArr.length() > 0) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:178:                // Filter Course_x0020_Number where Courses[i].Audience matches audienceType
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-179-                Set<String> epcodes = new LinkedHashSet<>();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-180-                for (int i = 0; i < coursesArr.length(); i++) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-181-                    JSONObject c = coursesArr.optJSONObject(i);
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-185-                    String code = c.optString("Course_x0020_Number");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-186-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-187-                    if (StringUtils.isBlank(code)) continue;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:188:                    if (StringUtils.isBlank(audienceType)) continue;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-189-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:190:                    if (StringUtils.equalsIgnoreCase(aud, audienceType)) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-191-                        epcodes.add(code.trim());
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-192-                    }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-193-                }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-194-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:195:                if (!epcodes.isEmpty() && StringUtils.isNotBlank(audienceType) && StringUtils.isNotBlank(location)) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:196:                    recommendedCoursesHtml = fetchAndBuildRecommendedCourses(epcodes, audienceType, location);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-197-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-198-                    if (StringUtils.isNotBlank(recommendedCoursesHtml)) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-199-                        tab0.append("<div>")
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-255-    // Coveo Integration (Direct)
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-256-    // ==========================
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-257-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:258:    private String fetchAndBuildRecommendedCourses(Set<String> epcodes, String audienceType, String location) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-259-        try {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-260-            // Build CQ exactly in expected format
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:261:            String cq = buildCq(epcodes, audienceType, location);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-262-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-263-            JSONObject payload = new JSONObject();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-264-            payload.put("q", "");
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-377-        }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-378-    }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-379-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:380:    private String fetchAndBuildRecommendedPackages(Set<String> epcodes, String audienceType, String location) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-381-        try {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-382-            Set<String> epcodesEmpty = new LinkedHashSet<>();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:383:            String cq = buildCq(epcodesEmpty, audienceType, location);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-384-            String packEpCode = "";
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-385-            StringBuilder html = new StringBuilder();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-386-
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-502-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-503-    private JSONObject executeCoveoSearchDirect(String bodyReq) throws JSONException {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-504-        try {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:505:            String audienceTypes = getCookieValue(request, "AudienceTypes");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:506:            if (StringUtils.isEmpty(audienceTypes)) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:507:                LOG.warn("Coveo direct call: No AudienceTypes cookie found");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-508-                return new JSONObject().put("error", "No audience types found");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-509-            }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-510-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-511-            HttpSession session = request.getSession();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-512-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:513:            if (audienceTypes.equalsIgnoreCase("GUEST")) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-514-                JSONObject userJsonObj = new JSONObject();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-515-                session.setAttribute("userJsonObj", userJsonObj.toString());
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-516-            }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-517-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:518:            String twxAudienceType = getUserAttribute(
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:519:                    request, session, "TWX_AudienceType", "TWX_AudienceType", "Customer, ExternalX, United States"
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-520-            );
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-521-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:522:            String searchBearerToken = getSearchToken(twxAudienceType, session, request);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-523-            if (StringUtils.isEmpty(searchBearerToken)) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-524-                LOG.warn("Coveo direct call: Failed to get search token");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-525-                return new JSONObject().put("error", "Failed to get search token");
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-602-    private JSONObject getUserInfoFromAPI(SlingHttpServletRequest request, String sessionId) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-603-        try (CloseableHttpClient httpClient = HttpClients.createDefault()) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-604-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:605:            String audType = getCookieValue(request, "AudienceTypes", "Guest");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-606-            String nashId = getCookieValue(request, "_nash", "");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-607-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:608:            if (sessionId != null && audType != null &&
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:609:                    !StringUtils.equalsIgnoreCase(audType, "GUEST") &&
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:610:                    !StringUtils.equalsIgnoreCase(audType, "INTERNAL")) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-611-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-612-                String getUserInfoUrl = endPointsService.getSamlGetUserInfoEndpoint();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-613-                String sanitizedSessionId = sanitizeSessionId(sessionId);
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-615-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-616-                HttpGet getRequest = new HttpGet(url);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-617-                getRequest.addHeader("Cookie", "_nash=" + nashId);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:618:                getRequest.addHeader("Cookie", "AudienceTypes=" + audType);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-619-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-620-                HttpResponse responseREST = httpClient.execute(getRequest);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-621-
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-652-        return sessionId.replace("\"", "");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-653-    }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-654-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:655:    private String getSearchToken(String audType, HttpSession session, SlingHttpServletRequest request) throws JSONException {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-656-        String searchBearerToken = (String) session.getAttribute("searchBearerToken");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-657-        String userKeySession = (String) session.getAttribute("userKey");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-658-        String userKeyCookie = getCookieValue(request, "userKey");
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-664-        }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-665-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-666-        try {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:667:            String[] types = audType.split(",");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-668-            String[] trimmedTypes = Arrays.copyOf(types, Math.max(types.length - 1, 0));
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-669-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-670-            String filterConditions = Arrays.stream(trimmedTypes)
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-753-        return cookie != null ? cookie.getValue() : defaultValue;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-754-    }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-755-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:756:    private String buildCq(Set<String> epcodes, String audienceType, String location) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java:757:        String aud = escapeCqValue(audienceType);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-758-        String loc = escapeCqValue(location);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-759-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\AvailableExamsSsrModel.java-760-        StringBuilder codes = new StringBuilder();
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java-135-                String location = StringUtils.isBlank(loc) ? getCookieValue(request,"location","United States") : loc;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java-136-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java-137-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java:138:            String audType = userInfo != null ? StringUtils.defaultString(userInfo.getTWX_AudienceType()) : "";
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java:139:            String audienceType = StringUtils.isBlank(audType) ? "Customer, ExternalX, " + location : audType;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java-140-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java-141-            useLocation = location;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java-142-            // Build same JSON body as your frontend used
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java-143-            JSONObject payload = new JSONObject();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java:144:            payload.put("audienceType", audienceType);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java-145-            payload.put("location", location);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java-146-            payload.put("country", location);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java-147-            payload.put("courseId", courseId);
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java-291-        return "United States";
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java-292-    }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java-293-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java:294:    private String resolveAudienceType(String location) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java-295-        // Your JS fallback: "Customer, ExternalX, " + location
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java-296-        return "Customer, ExternalX, " + location;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\models\CourseDetailsModel.java-297-    }
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servicesimpl\FAQDataServiceImpl.java-29-    private Map<String, Category> csvData;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servicesimpl\FAQDataServiceImpl.java-30-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servicesimpl\FAQDataServiceImpl.java-31-    @Override
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servicesimpl\FAQDataServiceImpl.java:32:    public Map<String, Category> readFaqData(String audienceType, SlingHttpServletRequest request) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servicesimpl\FAQDataServiceImpl.java-33-        try {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servicesimpl\FAQDataServiceImpl.java:34:            csvData = FaqCsvReader.getFaqData(request, faqFilePath, audienceType);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servicesimpl\FAQDataServiceImpl.java-35-        } catch (Exception e) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servicesimpl\FAQDataServiceImpl.java-36-            LOGGER.error("Error while getting data: {}", e);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servicesimpl\FAQDataServiceImpl.java-37-        }
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-94-			out = response.getWriter();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-95-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-96-			// Authentication checks
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:97:			String audienceTypes = getCookieValue(request, "AudienceTypes");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:98:			if (StringUtils.isEmpty(audienceTypes)) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-99-				sendErrorResponse(response, out, "No audience types found");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-100-				return;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-101-			}
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-102-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:103:			String twxAudienceType = getCookieValue(request, "TWX_AudienceType", "Customer, ExternalX, United States");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-104-			HttpSession session = request.getSession();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:105:			String searchBearerToken = getSearchToken(twxAudienceType, session, request);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-106-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-107-			if (StringUtils.isEmpty(searchBearerToken)) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-108-				sendErrorResponse(response, out, "Failed to get search token");
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-312-	private void handleCoveoSearch(SlingHttpServletRequest request, SlingHttpServletResponse response, String bodyReq) throws IOException {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-313-		PrintWriter out = response.getWriter();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-314-		try {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:315:			String audienceTypes = getCookieValue(request, "AudienceTypes");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:316:			if (StringUtils.isEmpty(audienceTypes)) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-317-				sendErrorResponse(response, out, "No audience types found");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-318-				return;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-319-			}
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-320-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-321-			HttpSession session = request.getSession();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:322:			if(audienceTypes.equalsIgnoreCase("GUEST")){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-323-				JSONObject userJsonObj = new JSONObject();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-324-				session.setAttribute("userJsonObj", userJsonObj.toString());
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-325-			}
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-326-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:327:			String twxAudienceType = getUserAttribute(
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:328:					request, session, "TWX_AudienceType", "TWX_AudienceType", "Customer, ExternalX, United States"
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-329-			);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:330:			logger.info("Coveo call TWX AudType: " + twxAudienceType);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-331-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:332:			String searchBearerToken = getSearchToken(twxAudienceType, session, request);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:333:			logger.info("Coveo search bearer token for " + twxAudienceType + " is " + searchBearerToken);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-334-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-335-			if (StringUtils.isEmpty(searchBearerToken)) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-336-				sendErrorResponse(response, out, "Failed to get search token");
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-423-		logger.info("triggered getUserInfoFromAPI from coveosearch servlet");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-424-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-425-		try (CloseableHttpClient httpClient = HttpClients.createDefault()){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:426:			String audType = getCookieValue(request, "AudienceTypes", "Guest");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-427-			String nashId = getCookieValue(request, "_nash", "");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-428-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:429:			logger.info("from coveosearch servlet, nashId: " + nashId + ", audType: " + audType);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-430-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:431:			if (sessionId != null && audType != null &&
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:432:					!StringUtils.equalsIgnoreCase(audType, "GUEST") &&
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:433:					!StringUtils.equalsIgnoreCase(audType, "INTERNAL")) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-434-//
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-435-//				Map<String, String> headers = new HashMap<>();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-436-//				headers.put("Authorization", "Bearer asdada");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-437-//				headers.put("Cookie", "_nash=" + nashId);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:438://				headers.put("Cookie", "AudienceTypes=" + audType);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-439-				String getUserInfoUrl = endPointsService.getSamlGetUserInfoEndpoint();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-440-				String sanitizedSessionId = sanitizeSessionId(sessionId);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-441-				String url = getUserInfoUrl + sanitizedSessionId;
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-444-				HttpGet getRequest = new HttpGet(url);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-445-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-446-				getRequest.addHeader("Cookie", "_nash=" + nashId);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java:447:				getRequest.addHeader("Cookie", "AudienceTypes=" + audType);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-448-				HttpResponse responseREST = httpClient.execute(getRequest);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-449-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\core\src\main\java\com\dell\core\servlets\CashApplication.java-450-				if (responseREST.getStatusLine().getStatusCode() == 200) {
+
+[Showing results with pagination = limit: 250]

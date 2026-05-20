@@ -1,0 +1,252 @@
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\template-components\globalheader\globalheader.html:1:[Omitted long matching line]
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\template-components\globalheader\globalheader.html-2-  <section
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\template-components\globalheader\globalheader.html-3-          id="unified-masthead"
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\structure\page\customheaderlibs.html-52-    }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\structure\page\customheaderlibs.html-53-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\structure\page\customheaderlibs.html:54:    const audType = headerElement.getAttribute('data-audtype');
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\structure\page\customheaderlibs.html-55-    const lldisplay = headerElement.getAttribute('data-lldisplay');
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\structure\page\customheaderlibs.html-56-
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\mylearningnav\clientlib-mylearningnav\js\mylearningnav.js-9-    }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\mylearningnav\clientlib-mylearningnav\js\mylearningnav.js-10-  });
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\mylearningnav\clientlib-mylearningnav\js\mylearningnav.js:11:  const audtype = document.querySelector(".dt-emc-header").getAttribute('data-audtype').toLowerCase();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\mylearningnav\clientlib-mylearningnav\js\mylearningnav.js-12-    //const lldisplay = document.querySelector(".dt-emc-header").getAttribute('data-lldisplay');
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\mylearningnav\clientlib-mylearningnav\js\mylearningnav.js-13-    var lldisplay = readCookie('LL_display');
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\mylearningnav\clientlib-mylearningnav\js\mylearningnav.js-15-    titleList.forEach(tab => {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\mylearningnav\clientlib-mylearningnav\js\mylearningnav.js-16-      if(tab.title === "Learning Hub"){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\mylearningnav\clientlib-mylearningnav\js\mylearningnav.js:17:        //if(audtype != 'guest' && audtype != 'internal' && lldisplay == 'true'){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\mylearningnav\clientlib-mylearningnav\js\mylearningnav.js:18:        if(audtype == 'guest' || (lldisplay != undefined && lldisplay != null && lldisplay == 'true')){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\mylearningnav\clientlib-mylearningnav\js\mylearningnav.js-19-        	//tab.closest('li').style.display = '';
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\mylearningnav\clientlib-mylearningnav\js\mylearningnav.js-20-        	tab.closest('li').classList.remove('hidell');
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\mylearningbanner\clientlib-mylearningbanner\js\mylearningbanner.js-2-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\mylearningbanner\clientlib-mylearningbanner\js\mylearningbanner.js-3-var headbodyTag = document.querySelector(".dt-emc-header");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\mylearningbanner\clientlib-mylearningbanner\js\mylearningbanner.js:4:var headaudienceType = headbodyTag.getAttribute("data-audtype");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\mylearningbanner\clientlib-mylearningbanner\js\mylearningbanner.js-5-var headtrainingcred = headbodyTag.getAttribute("data-tcredits");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\mylearningbanner\clientlib-mylearningbanner\js\mylearningbanner.js-6-
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js-2-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js-3-var $jq = jQuery.noConflict();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js:4:var audtype = "Guest";
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js-5-const internalalertModalBody = `<p><div id="MessageBar-container-378059018" data-dds="message-bar" role="dialog" aria-describedby="MessageBar-content-321862848" aria-labelledby="MessageBar-title-321862848"class="dds__message-bar--error" data-timer="false" data-timer-duration="5" data-dismissible="true">
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js-6-                              <div id="MessageBar-content-321862848" class="dds__message-bar__content dds__p-2"><span class="dds__icon dds__icon--alert-notice dds__message-bar__icon" aria-hidden="true"></span> <b id="MessageBar-title-321862848">Error:</b> Dell employees cannot register for training on the external customer website.</div>
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js-68-})();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js-69-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js:70: audtype = $jq(".dt-emc-header").data("audtype");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js-71-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js-72- if(!$jq(".dds__cd-error").hasClass("dds__d-none")){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js:73:    if(audtype=="Guest" || audtype=="GUEST"){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js-74-        $jq(".dds__guest-user-error").removeClass("dds__d-none");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js-75-        $jq(".dds__loggedin-user-error").addClass("dds__d-none");
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js-80- }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js-81-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js:82:if(audtype=="Guest" || audtype=="GUEST"){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js-83-    $jq(".dds__button-CTA-CD-Guest").removeClass("dds__d-none");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js-84-    $jq(".dds__button-CTA-CD-User").addClass("dds__d-none");
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js-114-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js-115-$jq(".dds__button-CTA-CD-User").on("click", function(){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js:116:        if(audtype == "Internal" || audtype == "internal"){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js-117-            LoadingIndicatorelementInit.hide();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details-updated\clientlib-coursedetails\js\coursedetails.js-118-            triggerModal('',internalalertModalBody);
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-1-var $jq = jQuery.noConflict();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js:2:var audtype = "";
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-3-var courseID = "";
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-4-var modType = "";
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-104-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-105-    $jq(".dds__button-CTA-CD").on("click", function(){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js:106:       audtype = $jq(".dt-emc-header").data("audtype");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js:107:        if(audtype == "Internal" || audtype == "internal"){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-108-            	triggerModal('',internalalertModalBody);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-109-        }
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-198-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-199-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js:200:            audtype = $jq(".dt-emc-header").data("audtype");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-201-            isLL = DOMPurify.sanitize($jq(".dt-emc-header").data("lldisplay"));
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-202-            authId = DOMPurify.sanitize($jq(".dt-emc-header").data("aid"));
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-204-            var userKey = DOMPurify.sanitize(readCookie("userKey"));
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-205-			var userLoc = DOMPurify.sanitize($jq(".dt-emc-header").data("location") != undefined ? $jq(".dt-emc-header").data("location") : readCookie("location").replace(/"/g, ""));
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js:206:                var twxaudtype = DOMPurify.sanitize($jq(".dt-emc-header").data("twxaudtype"));
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js:207:                if(twxaudtype.includes("–")){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js:208:                    twxaudtype = twxaudtype.replace(/–/g, "\\u2013");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-209-                }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js:210:                if(twxaudtype == ""){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js:211:                    twxaudtype = readCookie("TWX_AudienceType") ? readCookie("TWX_AudienceType") : "Customer, ExternalX, " + userLoc;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js:212:                    twxaudtype = twxaudtype.replace(/"/g, "");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-213-                }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-214-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-215-            if(userKey !== ""){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-216-                jsonObj = {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js:217:                    "audienceType": twxaudtype,
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-218-                    "location": userLoc,
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-219-                    "country":userLoc,
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-223-            } else {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-224-                jsonObj = {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js:225:                    "audienceType": twxaudtype,
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-226-                    "location":DOMPurify.sanitize(readCookie("location") != null ? readCookie("location").replace(/"/g, "") : "United States"),
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-227-                    "country":DOMPurify.sanitize(readCookie("location") != null ? readCookie("location").replace(/"/g, "") : "United States"),
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-253-function displayErr(){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-254-    $jq(".dds__cd--loading").addClass("dds__d-none");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js:255:    if(audtype === "Guest" || audtype === "GUEST"){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-256-        $jq(".dds__cd-error").removeClass("dds__d-none");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-257-        $jq(".dds__guest-user-error").removeClass("dds__d-none");
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-359-    }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-360-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js:361:    if(audtype != "Guest" && audtype != "GUEST" && audtype != "Internal"){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-362-        $jq(".dds__country-selected").html($jq(".dt-emc-header").attr("data-location"));
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-363-    } else {
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-570-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-571-function initCTANonCourse(){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js:572:    if(audtype === "Guest" || audtype === "GUEST"){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-573-            $jq(".dds__button-CTA-CD").text("Sign In / Create Account");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-574-            $jq(".dds__button-CTA-CD").attr("data-ctaType", "signin");
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-592-function initCTA(){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-593-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js:594:    if(audtype === "Guest" || audtype === "GUEST"){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-595-        $jq(".dds__button-CTA-CD").text("Sign In / Create Account");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-596-        $jq(".dds__button-CTA-CD").attr("data-ctaType", "signin");
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-828-        "balance": $jq("#dds__tc_balance").text().trim(),
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-829-        "orgNo": orgNo,
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js:830:        "audienceType": audtype,
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-831-        "location": countryToCart }];
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\course-details\clientlib-coursedetails\js\coursedetails.js-832-
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\classschedule\clientlib-classschedule\js\classschedule.js-61-    //$jq(".dds__schedule-data-loading").removeClass("dds__d-none");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\classschedule\clientlib-classschedule\js\classschedule.js-62-    $tableName = $jq(".tableID").text();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\classschedule\clientlib-classschedule\js\classschedule.js:63:    audType = $jq(".dt-emc-header").data("audtype").toLowerCase();;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\classschedule\clientlib-classschedule\js\classschedule.js-64-    init();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\classschedule\clientlib-classschedule\js\classschedule.js-65-    let isccSrchFltrHintHidden = sessionStorage.getItem("hideccSrchFltrHint");
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\classschedule\clientlib-classschedule\js\classschedule.js-430-    }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\classschedule\clientlib-classschedule\js\classschedule.js-431-    else{
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\classschedule\clientlib-classschedule\js\classschedule.js:432:        twxAudType = $jq(".dt-emc-header").data("twxaudtype");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\classschedule\clientlib-classschedule\js\classschedule.js-433-        countryval = $jq(".dt-emc-header").data("location");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\classschedule\clientlib-classschedule\js\classschedule.js-434-    }
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\coveosearch\clientlib-coveosearch\js\coveosearch.js-480-    var usrLoc = $jq(".dt-emc-header").data("location") ? $jq(".dt-emc-header").data("location") : "United States";
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\coveosearch\clientlib-coveosearch\js\coveosearch.js-481-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\coveosearch\clientlib-coveosearch\js\coveosearch.js:482:    if ($jq(".dt-emc-header").data("audtype").toUpperCase() == "GUEST" || $jq(".dt-emc-header").data("audtype").toUpperCase() == "INTERNAL") {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\coveosearch\clientlib-coveosearch\js\coveosearch.js-483-        var locCookie = readCookie("location");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\coveosearch\clientlib-coveosearch\js\coveosearch.js-484-        usrLoc = locCookie ? locCookie : "United States";
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\coveosearch\clientlib-coveosearch\js\coveosearch.js-820-    } else {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\coveosearch\clientlib-coveosearch\js\coveosearch.js-821-        $jq(".dds__no-resultsText").text($jq(".dds__no-resultsText").text().replace("$srchText", $jq("#dds__srch-input").val()));
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\coveosearch\clientlib-coveosearch\js\coveosearch.js:822:        if($jq(".dt-emc-header").data("audtype").toUpperCase() == "GUEST"){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\coveosearch\clientlib-coveosearch\js\coveosearch.js-823-            $jq(".dds__no-resultsText").html($jq(".dds__no-resultsText").text().replace("$srchAudText", `or <a href='javascript:void(0);' onclick='document.querySelector(".dt-emc-signin").click();'>sign into your account</a> and try again`));
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\custom-components\coveosearch\clientlib-coveosearch\js\coveosearch.js-824-        } else{
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-3-var trainingCreds = "";
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-4-var coursePTAType;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js:5:var audtype = "";
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-6-var classTrainingCreds = "";
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-7-var virtualTrainingCreds = "";
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-439-            audienceType = "Customer, ExternalX, United States";
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-440-        }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js:441:        // audtype = Cookies.set("AudienceTypes", "Partner");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js:442:        audtype = getCookie("AudienceTypes");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-443-        //subscriptionno = Cookies.set("subsNo", "12345");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-444-          subscriptionno = getCookie("subsNo");
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-1267-                    } else {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-1268-                        $jq(".course-price").text("Free");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js:1269:                          if (audtype == "Partner" || audtype == "Customer" || audtype == "ExternalX" ) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js:1270:                        //if (audtype == "Partner") {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-1271-                            if (modName == "Private Classroom") {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-1272-                                $jq(".course-pricing .addtocartModal>a")
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-1319-                    }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-1320-                    // Guest user - Asked to login
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js:1321:                    if(audtype == "Guest"){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-1322-                        $jq(".course-pricing span").text("Sign in / Create Account");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-1323-                        $jq(".course-pricing .addtocartModal>a").removeClass("disabled btn-addtocart addtocart");
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-1452-        e.preventDefault();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-1453-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js:1454:        if (audtype == "Internal") {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-1455-            $jq("#addtocart .modal-body").html("Sorry, Dell employees cannot register for courses on this website, which is meant for external customers. <br><br><a href='/content/emc/"+ countryLocale +"/internal/home.html'>Click here to be re-directed</a> to the site dedicated for internal learners.");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-1456-            $jq(".addtocarterr").click();
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-1514-            if($jq(".course-pricing .addtocartModal>a").hasClass("btn-addtocart")){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-1515-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js:1516:            if (audtype == "Internal") {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-1517-                $jq("#addtocart .modal-body").html("Sorry, Dell employees cannot register for courses on this website, which is meant for external customers. <br><br><a href='/content/emc/"+ countryLocale +"/internal/home.html'>Click here to be re-directed</a> to the site dedicated for internal learners.");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\emc\components\store\coursedetails\clientlib-coursedetails\js\coursedetails.js-1518-                $jq(".addtocarterr").click();
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\content\assigntrialbtn\clientlib-assigntrialbtn\js\assigntrialbtn.js-22-  console.log("courseID : " + courseID);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\content\assigntrialbtn\clientlib-assigntrialbtn\js\assigntrialbtn.js-23-  const jqTrialModal = $jq("#assignTrialModalpopup");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\content\assigntrialbtn\clientlib-assigntrialbtn\js\assigntrialbtn.js:24:  let audType = $jq(".dt-emc-header").data("audtype");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\content\assigntrialbtn\clientlib-assigntrialbtn\js\assigntrialbtn.js-25-  if(audType == "Internal"){
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\content\assigntrialbtn\clientlib-assigntrialbtn\js\assigntrialbtn.js-26-    jqTrialModal.find(".dds__modal__body").html("The Trail Offer is only available to external customer and partner audiences.");
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-21859-var audiencewrapper = document.querySelectorAll(".jq-audiencewrapper");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-21860-var bodyTag = document.querySelector(".dt-emc-header");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js:21861:var audienceType = bodyTag.getAttribute("data-audtype") == "ExternalX" ? "customer" : bodyTag.getAttribute("data-audtype");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-21862-var displayClassName = "display-" + audienceType.toLowerCase() + "-content";
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-21863-if (audienceType != "Guest" && audienceType != "Internal") {
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23348-});
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23349-var language, location, firstPart, secondPart, selectorselected, redirectURL, localeExInput, hrefVal, SiteUrl, SiteSelector;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js:23350:var audtype = document.querySelector(".dt-emc-header").getAttribute('data-audtype').toLowerCase();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23351-//var guestUser = (username) ? false : true;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23352-var pathanme = window.location.pathname;
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23476-}
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23477-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js:23478://  if(audtype != "guest" && audtype != "internal")
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23479-//   location = document.querySelector(".dt-emc-header").getAttribute('data-location');
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23480-
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23481-// For guest user, if there is no TWX_AudienceType cookie, we set with United States
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js:23482:if (audtype == "guest" && readCookie('TWX_AudienceType') == null) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23483-  createCookie('TWX_AudienceType', '"Customer, ExternalX, ' + location + '"', 1);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23484-}
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23536-  }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23537-  savebtn.classList.add('disabled');
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js:23538:  if (audtype == "guest" || audtype == "internal") {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23539-    createCookie('TWX_AudienceType', '"Customer, ExternalX, ' + locationFC + '"', 365);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23540-    var LoggedUserAudType = 'Customer, ExternalX, ' + locationFC;
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23560-  var locval = selectLocation.options[selectLocation.selectedIndex].dataset.defaultpath;
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23561-  // savebtnmylearning.classList.add('disabled');
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js:23562:  if (audtype == "guest" || audtype == "internal") {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23563-    createCookie('TWX_AudienceType', '"Customer, ExternalX, ' + locationFC + '"', 365);
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23564-    var LoggedUserAudType = 'Customer, ExternalX, ' + locationFC;
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23799-  }
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23800-  var listItems = document.querySelectorAll('li[data-aduser]');
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js:23801:  var audtype = document.querySelector(".dt-emc-header").getAttribute('data-audtype').toLowerCase() === "externalx" ? "customer" : document.querySelector(".dt-emc-header").getAttribute('data-audtype').toLowerCase();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23802-  listItems.forEach(function (item) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23803-    var aduserValue = item.getAttribute('data-aduser').toLowerCase();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js:23804:    if (aduserValue.indexOf(audtype) === -1) {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23805-      item.remove();
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23806-    }
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23845-  document.getElementById('learning-hub').style.display = '';
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23846-}
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js:23847:var audType = document.querySelector(".dt-emc-header").getAttribute('data-audtype');
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23848-if (audType == 'internal') {
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\clientlibs\clientlib-base\js\global.js-23849-  if (hostURL.indexOf("learning-hub.html") !== -1 || hostURL.indexOf("user-collection.html") !== -1) {
+--
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\content\audiencewrapper\audiencewrapper.html-9-    var audiencewrapper = document.querySelectorAll(".jq-audiencewrapper");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\content\audiencewrapper\audiencewrapper.html-10-var bodyTag = document.querySelector(".dt-emc-header");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\content\audiencewrapper\audiencewrapper.html:11:var audienceType = bodyTag.getAttribute("data-audtype") == "ExternalX" ? "customer" : bodyTag.getAttribute("data-audtype");
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\content\audiencewrapper\audiencewrapper.html-12-var  displayClassName = "display-" + audienceType.toLowerCase() + "-content";
+C:\Users\JiunYong_Liang\AEM Backend\AEM_Project\ui.apps\src\main\content\jcr_root\apps\dell\components\content\audiencewrapper\audiencewrapper.html-13-if(window.location.pathname.includes("/unauthorized.html")){
+--
+
+[Showing results with pagination = limit: 250]

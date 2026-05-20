@@ -1,0 +1,17 @@
+# Credentials & auth — never commit these
+.credentials.json
+.last-cleanup
+
+# Ephemeral / local-only
+cache/
+sessions/
+session-env/
+shell-snapshots/
+telemetry/
+paste-cache/
+backups/
+file-history/
+
+# Large binary / noisy files
+history.jsonl
+mcp-needs-auth-cache.json
